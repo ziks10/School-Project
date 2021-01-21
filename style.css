@@ -1,0 +1,95 @@
+
+.header-area{
+	background-color:#D0D0D0;
+	padding-top:20px;
+	padding-bottom:10px;
+	height:160px;
+}
+.menu{
+	
+}
+.menu ul li a{
+padding:15px 6px 10px 25px;
+font-size:18px;
+font-family:Myriad Pro;	
+color:black;
+}
+.menu ul li a:hover{
+	color:#ffffff;
+	background-color:#0E70C7;
+}
+.menu ul ul{
+	display:none;
+	overflow:none;
+}
+.menu ul li:hover>ul{
+	display:block;
+	overflow:none;
+}
+
+
+.header{
+	background-color:#0E70C7;
+	position:relative;
+	height:178px;
+	margin-top:10px;
+}
+.header img{
+	margin-top:5px;
+	position:absolute;
+	left:-50;
+}
+.header a{
+	color:#fff;
+	font-size:57px;
+}
+.header a:hover{
+	color:pink;
+}
+.header p{
+	color:#fff;
+	font-size:27px;
+	margin-left:130px;
+	margin-top:15px;
+}
+.carousel slide{
+	height:550px;
+}
+.carousel-inner img{
+	margin-left:20px;
+	margin-right:20px;
+	overflow:none;
+	height:250px;
+	width:100%;
+}
+
+.footer-area{
+	height:70px;
+	background-color:#D0D0D0;
+}
+.footer{
+	margin-left:300px;
+	margin-top: 5px;
+}
+.footer-area p{
+	padding:10px 10px 10px;
+	font-size:18px;
+}
+.section-area{
+	height:230px;
+}
+.section{
+	margin-top:30px;
+}
+.section a{
+	margin-left:337px;
+	padding:auto;
+	font-size:28px;
+}
+.section p{
+	font-size: 17px;
+	margin-top: 18px;
+}
+.section a:hover{
+	color:pink;
+}
